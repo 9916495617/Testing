@@ -1,3 +1,3 @@
-# Testing
-Testing repo skills added
+# Notes
+working repo skills added
 code verified
