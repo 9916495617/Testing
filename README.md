@@ -1,7 +1,2 @@
 # Notes
-Testing repo skills added
-code verified
-
-dfdfdfdf
-fdfd
-fdfdfkee
+working repo skills added
